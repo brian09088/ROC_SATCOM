@@ -1,6 +1,6 @@
 # partially cites from [浩瀚5贏新手村 Instagram](https://www.instagram.com/p/C76J5XQNvOW/)
 - slides folder link showing below, decryption key required, please contact me
-- [https://mega.nz/folder/z8pXDAwb](slideslink)
+- [slideslink](https://mega.nz/folder/z8pXDAwb)
 ------
 - ## 2024國際培育營:太空系統工程設計
   - 2024/0612~0613 
