@@ -1,9 +1,12 @@
 # partially cites from [浩瀚5贏新手村 Instagram](https://www.instagram.com/p/C76J5XQNvOW/)
-- ## 2024國際培育營：太空系統工程設計
+- slides folder link showing below, decryption key required, please contact me
+- [https://mega.nz/folder/z8pXDAwb](slideslink)
+------
+- ## 2024國際培育營:太空系統工程設計
   - 2024/0612~0613 
   - TBD
 ------
-- ## 2024國際培育營:遙測衛星影像AI加值國際培育營
+- ## 2024國際培育營:遙測衛星影像AI加值
   - 2024/0606~0607 
   - 國立暨南國際大學土木工程學系 王教授 分享不受日夜天候影響的主動式遙測系統「合成孔徑雷達（Synthetic Aperture Radar, SAR）」資料已經被廣泛的應用在環境與災害的監測，能偵測到災害發生的前兆，以及有助於山坡地管理。
     Dr. Wei-dong Jiang詳細介紹如何藉由高光譜影像的處理和分析，掌握環境監測、低軌道衛星等領域的應用技術；透過實際ENVI軟體實作如何運用機器學習與深度學習，進行數據分析與資料應用
